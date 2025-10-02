@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://paperrepo.23sou.xyz/$1"
+    }
+  ]
+}
